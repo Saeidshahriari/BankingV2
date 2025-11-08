@@ -8,8 +8,6 @@ This repo contains these core types:
 - `BankAccount` — balance keeping with deposit/withdraw semantics.
 - `BankTest` — JUnit 4 tests that exercise typical user flows (login/logout, deposits, withdrawals, transfers, and edge cases).
 
-> ⚠️ Note: The files you shared are *version 2* of the assignment. If you add or rename methods, please also update the tests accordingly.
-
 ---
 
 ## Quick start
