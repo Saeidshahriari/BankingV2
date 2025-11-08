@@ -151,4 +151,4 @@ This project is licensed under the **MIT License** (see [LICENSE](LICENSE)).
 
 ## Author
 
-**Saeid Shahriari** — Data Engineer &MLOps ().
+**Saeid Shahriari** — Data Engineer & MLOps · Java course project @ Vrije Universiteit Brussel (VUB).
